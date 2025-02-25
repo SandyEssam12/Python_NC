@@ -1,0 +1,51 @@
+[
+    {
+        "first_name": "Sandy",
+        "last_name": "Essam",
+        "email": "sandy@gmail.com",
+        "password": "San123456789",
+        "phone": "0123456789"
+    },
+    {
+        "first_name": "Sandy",
+        "last_name": "Essam",
+        "email": "sand@gmail.com",
+        "password": "Essam123456789",
+        "phone": "123456789"
+    },
+    {
+        "first_name": "sandy",
+        "last_name": "essam",
+        "email": "gh@gmail.com",
+        "password": "San123456789",
+        "phone": "1234456789"
+    },
+    {
+        "first_name": "HG",
+        "last_name": "HG",
+        "email": "jk@gmail.com",
+        "password": "Saness12345678",
+        "phone": "123456789"
+    },
+    {
+        "first_name": "san",
+        "last_name": "sandy",
+        "email": "kjlo@gmail.com",
+        "password": "12San2569872",
+        "phone": "123456789"
+    },
+    {
+        "first_name": "hanan",
+        "last_name": "essam",
+        "email": "han@gmail.con",
+        "password": "Han123456789",
+        "phone": "123456789"
+    },
+    {
+        "first_name": "mathew",
+        "last_name": "essam",
+        "email": "math@gmail.com",
+        "password": "SanMath123456789",
+        "phone": "123456789"
+    }
+]
